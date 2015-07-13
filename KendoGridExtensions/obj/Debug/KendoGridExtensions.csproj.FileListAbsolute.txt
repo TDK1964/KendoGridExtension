@@ -1,0 +1,7 @@
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\bin\Debug\KendoGridExtensions.dll
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\bin\Debug\KendoGridExtensions.pdb
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\bin\Debug\Dapper.dll
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\bin\Debug\Dapper.pdb
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\bin\Debug\Dapper.xml
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\obj\Debug\KendoGridExtensions.dll
+C:\Data\Repos\GitHub\KendoGridExtension\KendoGridExtensions\obj\Debug\KendoGridExtensions.pdb
